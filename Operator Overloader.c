@@ -3,7 +3,6 @@
 #include <iostream>
 
 using namespace std;
-
 template <typename i>
 class Set
 {
@@ -264,7 +263,6 @@ class Set
         }
         return in;
     }
-
 
 };
 #endif
