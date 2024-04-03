@@ -266,5 +266,3 @@ class Set
 
 };
 #endif
-
-
